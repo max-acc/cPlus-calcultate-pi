@@ -20,4 +20,5 @@ int main()
     pi = sqrt(sqrt(intermediateResult));    //Getting the fourth root
 
     cout << "Pi is equivalent to" << pi;    //Printing the result
+    return 0;
 }
