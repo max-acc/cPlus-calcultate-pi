@@ -1,4 +1,4 @@
-# c_CalcultatePi
+# <p align="center"><b>Calculate Pi</b></p>
 
 There are lot of possibilities on how to calculate the circle number &pi;:
   
@@ -7,3 +7,4 @@ There are lot of possibilities on how to calculate the circle number &pi;:
 
 ## Continued Fraction
 
+[:arrow_up:Back to top](#calculate-pi)
