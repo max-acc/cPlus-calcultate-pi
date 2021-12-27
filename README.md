@@ -1,6 +1,6 @@
 # <p align="center"><b>Calculate Pi</b></p>
 
-There are lot of possibilities on how to calculate the circle number &pi;:
+There are lot of possibilities on how to calculate the number e:
   
 * [Continued Fraction](#continued-fraction)
 
