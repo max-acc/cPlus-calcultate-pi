@@ -2,7 +2,7 @@
 
 There are lot of possibilities on how to calculate the circle number &pi;:
 
-* [Continued Fraction](#approximation)
+* [Approximation](#approximation)
 * [Continued Fraction](#continued-fraction)
 
 
